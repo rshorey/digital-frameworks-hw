@@ -7,4 +7,5 @@ here is some other stuff
 Under this subheader, we'll have a list
 
 1. list item 1
-2. another list item
+2. This is actually list item number 2
+3. another list item
